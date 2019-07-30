@@ -1,11 +1,6 @@
 import React, { Component } from "react";
 
 class Counter extends Component {
-  formatedCount = () => {
-    const { value } = this.props.counter;
-    return value === 0 ? "Zero" : value;
-  };
-
   render() {
     return (
       <div>
@@ -24,6 +19,11 @@ class Counter extends Component {
       </div>
     );
   }
+
+  formatedCount = () => {
+    const { value } = this.props.counter;
+    return value === 0 ? "Zero" : value;
+  };
 
   getBadgeClasses() {
     let countLabel = "badge m-2 badge-";
