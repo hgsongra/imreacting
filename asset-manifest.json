@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/imreacting/static/js/main.e34becbd.chunk.js",
+    "main.js.map": "/imreacting/static/js/main.e34becbd.chunk.js.map",
+    "runtime~main.js": "/imreacting/static/js/runtime~main.c4c546f3.js",
+    "runtime~main.js.map": "/imreacting/static/js/runtime~main.c4c546f3.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/imreacting/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.f509cc14.chunk.js": "/imreacting/static/js/2.f509cc14.chunk.js",
+    "static/js/2.f509cc14.chunk.js.map": "/imreacting/static/js/2.f509cc14.chunk.js.map",
+    "index.html": "/imreacting/index.html",
+    "precache-manifest.f37139c14880fda8018c220753f25208.js": "/imreacting/precache-manifest.f37139c14880fda8018c220753f25208.js",
+    "service-worker.js": "/imreacting/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/imreacting/static/css/2.22a7d4ef.chunk.css.map"
+  }
+}
